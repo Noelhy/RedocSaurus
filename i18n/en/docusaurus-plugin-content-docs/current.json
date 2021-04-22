@@ -1,0 +1,30 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.module.exports.category.GestoPagoAPI": {
+    "message": "GestoPagoAPI",
+    "description": "The label for category GestoPagoAPI in sidebar module.exports"
+  },
+  "sidebar.module.exports.category.Transactional": {
+    "message": "Transactional",
+    "description": "The label for category Transactional in sidebar module.exports"
+  },
+  "sidebar.module.exports.category.Telcel Post-Pago": {
+    "message": "Telcel Post-Pago",
+    "description": "The label for category Telcel Post-Pago in sidebar module.exports"
+  },
+  "sidebar.module.exports.category.Payments": {
+    "message": "Payments",
+    "description": "The label for category Payments in sidebar module.exports"
+  },
+  "sidebar.module.exports.category.Downloads": {
+    "message": "Downloads",
+    "description": "The label for category Downloads in sidebar module.exports"
+  },
+  "sidebar.module.exports.category.Files GPS": {
+    "message": "Files GPS",
+    "description": "The label for category Files GPS in sidebar module.exports"
+  }
+}

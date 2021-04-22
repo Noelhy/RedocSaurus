@@ -1,0 +1,46 @@
+{
+  "link.title.Interactive Demo": {
+    "message": "Interactive Demo",
+    "description": "The title of the footer links column with title=Interactive Demo in the footer"
+  },
+  "link.title.Docs API": {
+    "message": "Docs API",
+    "description": "The title of the footer links column with title=Docs API in the footer"
+  },
+  "link.title.More": {
+    "message": "More",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.API Transactional": {
+    "message": "API Transactional",
+    "description": "The label of footer link with label=API Transactional linking to /custom-layout"
+  },
+  "link.item.label.API Payments": {
+    "message": "API Payments",
+    "description": "The label of footer link with label=API Payments linking to https://cutt.ly/API-Payments"
+  },
+  "link.item.label.Transactional": {
+    "message": "Transactional",
+    "description": "The label of footer link with label=Transactional linking to docs/"
+  },
+  "link.item.label.Telcel Postpago": {
+    "message": "Telcel Postpago",
+    "description": "The label of footer link with label=Telcel Postpago linking to docs/"
+  },
+  "link.item.label.Payments": {
+    "message": "Payments",
+    "description": "The label of footer link with label=Payments linking to docs/"
+  },
+  "link.item.label.Github": {
+    "message": "Github",
+    "description": "The label of footer link with label=Github linking to https://www.npmjs.com/package/docusaurus-plugin-redoc"
+  },
+  "link.item.label.Web": {
+    "message": "Web",
+    "description": "The label of footer link with label=Web linking to https://www.gestopago.com/"
+  },
+  "copyright": {
+    "message": "Copyright © 2021  GESTOPAGO.  Built with <a href=\"https://github.com/facebook/docusaurus\" target=\"_blank\" rel=\"noopener noreferrer\">Docusaurus</a>.",
+    "description": "The footer copyright"
+  }
+}

@@ -1,0 +1,29 @@
+{
+    "module.exports": {
+        "GestoPagoAPI": [{
+            "Transactional": [
+                "getting-started",
+                "api-methods",
+                "flow-transactional-api",
+                "create-a-document",
+                "Logo-and-References",
+                "markdown-features",
+                "Conciliation-file"
+            ],
+            "Telcel Post-Pago": [
+                "telcel-postpago",
+                "Step-postpago",
+                "flow-transactional-pospago"
+            ],
+            "Payments": [
+                "hello",
+                "api-methods-pay"
+            ]
+        }],
+        "Downloads": [{
+            "Files GPS": [
+                "download-gps"
+            ]
+        }]
+    }
+}
